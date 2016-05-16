@@ -1,0 +1,16 @@
+{
+  "name": "webdriver-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^2.53.2",
+    "sleep": "^3.0.1",
+    "webdriverio": "4.0.7"
+  },
+  "author": "",
+  "license": "Apache-2.0"
+}
